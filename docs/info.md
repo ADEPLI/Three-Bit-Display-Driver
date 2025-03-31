@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit is the hard coded values that converts between a binary value and the valid outputs for the segments given the three bit input.
 
 ## How to test
 
-Explain how to use your project
+Cycle through all possible inputs with three bits, and see the display output on a wired seven segment display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment display.
